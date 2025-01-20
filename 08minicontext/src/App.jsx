@@ -8,9 +8,9 @@ function App() {
 
   return (
     <UserContextProvider>
-      <h1>Joy Ma Kali</h1>
-      <Login/>
+      <h3>Joysha</h3>
       <Profile/>
+      <Login/>
     </UserContextProvider>
   )
 }
